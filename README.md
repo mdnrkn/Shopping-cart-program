@@ -1,4 +1,4 @@
-# Shopping cart program with Python
+# Shopping cart program
 
 This is a simple Python program that allows a user to input food items and their prices into a shopping cart, then calculates the total cost of the items in the cart.
 
